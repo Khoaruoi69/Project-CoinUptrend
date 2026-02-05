@@ -1,4 +1,16 @@
+
 # Coin Uptrend
+
+🌐 **Website:** [https://coin-up-trend.com](https://coin-up-trend.com/)
+
+🌍 Language:
+- 🇬🇧 [English](README.en.md)
+- 🇻🇳 [Tiếng Việt](README.vi.md)
+
+📐 Architecture:
+- 🏗️ [System Architecture](ARCHITECTURE.md)
+
+---
 
 **Coin Uptrend** là một **Trading simulator & AI assistant** phân tích trực quan giúp người dùng theo dõi giá và xu hướng của các đồng tiền mã hóa chính như Bitcoin, Ethereum, SOL… từ nhiều sàn giao dịch.
 

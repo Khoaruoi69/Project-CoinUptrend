@@ -1,10 +1,9 @@
+[← Quay lại README chính](README.md) | [🇬🇧 English](README.en.md) | [🏗 Kiến trúc hệ thống](ARCHITECTURE.md)
 
 ---
-
-## 🇻🇳 **README.vi.md** (tiếng Việt)
-
-```markdown
 # Coin Uptrend
+
+🌐 **Website:** [https://coin-up-trend.com](https://coin-up-trend.com/)
 
 **Coin Uptrend** là một **Trading simulator & AI assistant** phân tích trực quan giúp người dùng theo dõi giá và xu hướng của các đồng tiền mã hóa chính như Bitcoin, Ethereum, SOL… từ nhiều sàn giao dịch.
 
