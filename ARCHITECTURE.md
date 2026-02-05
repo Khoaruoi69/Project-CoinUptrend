@@ -1,4 +1,4 @@
-
+[← Back to main README](README.md) | [🇻🇳 Vietnamese](README.vi.md) | [🏗 Architecture](ARCHITECTURE.md)
 
 # Tổng quan kiến trúc hệ thống
 
